@@ -104,9 +104,9 @@ cypress/
 
 # Running Tests
 
-npm run test               # running all the tests in headless mode
-npm run test-ui            # open cypress to run the tests
-npm run test-test          # run the tests with @test tag
-npm run report             # generate json file for generating report 
-npm run test:report        # run the tests and generate html report
-npm run cy:parallel        # run the tests in parallel
+* npm run test               # running all the tests in headless mode
+* npm run test-ui            # open cypress to run the tests
+* npm run test-test          # run the tests with @test tag
+* npm run report             # generate json file for generating report 
+* npm run test:report        # run the tests and generate html report
+* npm run cy:parallel        # run the tests in parallel
